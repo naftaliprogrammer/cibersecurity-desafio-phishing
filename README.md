@@ -24,4 +24,4 @@ Método de Ataque: Web Templates
 Método de Ataque: Google
 
 Obtendo o endereço da máquina: ip a
-
+![Resultado_phishing](https://github.com/user-attachments/assets/39953293-d3a5-4ef3-aa03-e5f04df7209a)
