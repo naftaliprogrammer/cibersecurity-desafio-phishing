@@ -16,5 +16,15 @@ setoolkit
 - Método de ataque: ``` Google ```
 - Obtendo o endereço da máquina: ``` ip a ```
 
+### Passo a Passo no VM (Kali Linux)
+![1](https://github.com/user-attachments/assets/ce845002-9e62-44aa-8a96-6be581ab9670)
+![2](https://github.com/user-attachments/assets/65f44b98-f677-4557-b3a2-32936f13d08e)
+![3](https://github.com/user-attachments/assets/649032f4-c330-4169-bdeb-d4cd3a63ba36)
+
+
+
+
+
+
 ### Resultados
 ![Resultado_phishing](https://github.com/user-attachments/assets/39953293-d3a5-4ef3-aa03-e5f04df7209a)
