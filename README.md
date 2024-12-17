@@ -14,9 +14,7 @@ setoolkit
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Web Template ```
 - Método de ataque: ``` Google ```
-- Obtendo o endereço da máquina: ``` ip  ```
-
-Obtendo o endereço da máquina: ip a
+- Obtendo o endereço da máquina: ``` ip a ```
 
 ### Resultados
 ![Resultado_phishing](https://github.com/user-attachments/assets/39953293-d3a5-4ef3-aa03-e5f04df7209a)
