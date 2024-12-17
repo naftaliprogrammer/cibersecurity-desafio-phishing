@@ -29,4 +29,5 @@ setoolkit
 ### Resultados
 ![Colocando_a_senha](https://github.com/user-attachments/assets/04f59ba8-01b8-4158-902f-7ce4d1cf02fa)
 
-![Resultado_phishing](https://github.com/user-attachments/assets/39953293-d3a5-4ef3-aa03-e5f04df7209a)
+![Resultado_phishing](https://github.com/user-attachments/assets/ed6f9bde-fc89-469c-b945-b42262481444)
+
