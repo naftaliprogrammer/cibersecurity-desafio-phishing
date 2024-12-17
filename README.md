@@ -22,10 +22,15 @@ setoolkit
 
 ### Passo a Passo no VM (Kali Linux)
 ![1](https://github.com/user-attachments/assets/ce845002-9e62-44aa-8a96-6be581ab9670)
+
 ![2](https://github.com/user-attachments/assets/65f44b98-f677-4557-b3a2-32936f13d08e)
+
 ![3](https://github.com/user-attachments/assets/649032f4-c330-4169-bdeb-d4cd3a63ba36)
+
 ![1-Web_Template](https://github.com/user-attachments/assets/65d4d7f9-8370-4740-945e-d18809c1d29b)
-![2-Google](https://github.com/user-attachments/assets/3127d5b2-3d49-4c76-93c7-9e9def07ff78)
+
+![2-Google](https://github.com/user-attachments/assets/f6c83aea-eedc-460c-909c-045b9d3bde42)
+
 
 
 
