@@ -19,6 +19,9 @@ Método de ataque: Credential Harvester Attack Method
 
 Método de ataque: Site Cloner
 
+Método de Ataque: Web Templates
+
+Método de Ataque: Google
+
 Obtendo o endereço da máquina: ip a
 
-URL para clone:
